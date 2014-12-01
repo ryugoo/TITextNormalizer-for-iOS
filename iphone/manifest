@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiTextNormalizer
+author: Ryutaro Miyashita
+license: Apache License, Version 2.0
+copyright: Copyright (c) 2014 by Ryutaro Miyashita
+
+# these should not be edited
+name: TiTextNormalizer
+moduleid: net.imthinker.ti.textnormalizer
+guid: 38967155-3371-4f5d-bd8a-649c581bb11b
+platform: iphone
+minsdk: 3.4.1.GA
